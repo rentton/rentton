@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rentton
-- 👀 I’m interested in AI
-- 📫 How to reach me mariogarjim4@gmail.com
+- 👋 Hi
 
 <!---
 rentton/rentton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
