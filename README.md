@@ -1,4 +1,4 @@
-- 👋 Hi, what's up?
+- 👋 Hi, how r u doing?
 
 <!---
 rentton/rentton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
